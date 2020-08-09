@@ -1,0 +1,12 @@
+,stud_id,stud_name,user,pass,class1,class2,class3,class4,class5,is_positive,date_started_quarantine
+0,1345,Bill Jobs,BJobs,1345,1,10,20,30,40,False,
+1,6535,Thanos Simar,TSimar,6535,5,4,1,12,23,False,
+2,4584,Steve Gates,SGates,4584,5,26,9,28,39,False,
+3,5678,Jeff Musk,JMusk,5678,27,24,26,3,6,False,
+4,4325,Bill Bob,BBob,4325,31,32,33,21,22,False,
+6,1023,Dojo Woods,DWoods,1023,4,31,7,26,3,False
+7,9087,Gary Knightly,GKnightly,9087,21,4,1,25,5,False
+8,7494,Edward Orchard,EOrchard,7494,33,21,27,4,7,False
+9,3567,Peter Pan,PPan,3567,1,25,24,23,22,True,2020-07-12
+5,5634,Elon Bezos,EBezos,5634,2,33,23,30,3,True,2020-07-17
+10,1324,Juan Johnson,JJohnson,1324,31,4,26,32,40,True,2020-7-7
